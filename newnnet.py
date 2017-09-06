@@ -20,7 +20,7 @@ output_num_units = 100
 epochs = 10
 batch_size = 6000
 
-
+#keerthana
 
 #data = pd.read_csv('../Matlab/data.csv',sep = "\t")
 f = open ( '../Matlab/trail.csv' , 'r')
